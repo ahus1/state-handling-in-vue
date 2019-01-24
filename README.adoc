@@ -1,0 +1,27 @@
+= State Handling in Vue.js
+
+== Why this repo exists
+
+This is demo repository that that I use for a presentation called "Handling State in Vue.js Applications".
+
+You can find the slides online on https://speakerdeck.com/ahus1/handling-state-in-vue-dot-js-applications[Speakerdeck]
+
+== What you can find here
+
+The code examples shows how state can be handled:
+
+* Minimal: Single Component
+* Hierarchy: Parent-Child
+* Horizontal: Event Bus
+* Inversion of State: Simple Global State
+* Inversion of State: Vuex
+
+== Disclaimer
+
+The code examples are minimal, opinionated, and show only these concepts.
+Before implementing any on these patterns in production, please evaluate them thoroughly.
+The code examples are so very minimal that other features for production ready code (like tests, error handling etc.) are missing.
+
+== License
+
+https://opensource.org/licenses/MIT[MIT]
