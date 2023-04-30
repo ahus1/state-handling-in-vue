@@ -1,5 +1,7 @@
 = State Handling in Vue.js
 
+NOTE: This repository has been archived as it targets Vue 2 which is now outdated.
+
 == Why this repo exists
 
 This is demo repository that that I use for a presentation called "Handling State in Vue.js Applications".
